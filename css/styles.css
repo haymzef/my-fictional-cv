@@ -1,0 +1,40 @@
+body {
+  background-color: #defcf9;
+  text-align: center;
+}
+
+h1 {
+  color: #00bcd4;
+}
+h2 {
+  color: #00bcd4;
+}
+h3 {
+  color: #00bcd4;
+}
+
+a:link {
+  color: lightseagreen;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: mediumseagreen;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+table{
+  text-align: center;
+  color: darkcyan;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
